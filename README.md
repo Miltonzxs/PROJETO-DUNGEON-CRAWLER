@@ -1,4 +1,4 @@
-# PROJETO-DUNGEON-CRAWLER
+# PROJETO-LUNATIC (DUGEON CRAWLER)
 
 *Integrantes: José Milton, Tayron, Thiago Luciano e Ronald Bruno.*
 
