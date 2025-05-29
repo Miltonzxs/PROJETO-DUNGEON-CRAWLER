@@ -13,4 +13,4 @@ O jogo Lunatic se desenrola em três fases, cada uma representando um aspecto da
 Tema Central: Lunatic explora a dualidade entre ordem e caos, sanidade e loucura, enquanto você luta não apenas contra inimigos externos, mas contra a tentação de ceder à própria escuridão. Cada fase é um teste de coragem, resiliência e esperança, em um universo onde a luz da Lua pode salvar ou condenar.
 
 # CONTROLES:
-CONTROLES: W, A, S, D para mover                                                                                                                                                                                                                                                                          E para interagir.
+CONTROLES: W, A, S, D para mover                                                                                                                                                                                                                                                  \ E para interagir \ F para sair
