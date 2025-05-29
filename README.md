@@ -16,14 +16,14 @@ Tema Central: Lunatic explora a dualidade entre ordem e caos, sanidade e loucura
 CONTROLES: W, A, S, D para mover                                                                                                                                                                                                                                                  \ E para interagir \ F para sair
 
 # SIMBOLOS
-@: Simbolo que representa o jogador.
-A: Simbolo que representa um NPC.
-*: Simbolo que representa uma parede, o jogador nao pode passar pela parede.
-C: Simbolo que representa a chave para abrir a porta.
-P: Simbolo que representa a porta fechada.
-B: Simbolo que representa um botao que o jogador pode interagir.
-^: Simbolo que representa um espinho, reinicia fase.
-T: Simbolo que representa um teletransporte.
-M: Monstro nivel 1 (movimento aleat├│rio).
-N: Monstro nivel 2 (segue o jogador).
-CONTROLES: W, A, S, D para mover e E para interagir.
+@: Simbolo que representa o jogador. /
+A: Simbolo que representa um NPC. /
+*: Simbolo que representa uma parede, o jogador nao pode passar pela parede. /
+C: Simbolo que representa a chave para abrir a porta. /
+P: Simbolo que representa a porta fechada. /
+B: Simbolo que representa um botao que o jogador pode interagir. /
+^: Simbolo que representa um espinho, reinicia fase. /
+T: Simbolo que representa um teletransporte. /
+M: Monstro nivel 1 (movimento aleat├│rio). /
+N: Monstro nivel 2 (segue o jogador). / 
+CONTROLES: W, A, S, D para mover e E para interagir. /
